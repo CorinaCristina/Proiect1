@@ -1,0 +1,36 @@
+.map {
+    height: 50%;
+    width: 100%;
+    position: absolute;
+}
+
+.description {
+    top: 65%;
+    height: 50%;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.myimage {
+    border-radius: 25%;
+    height: 100%;
+    width: 20%;
+    max-width: 400px;
+    left: 25%;
+    display: block;
+    position: absolute;
+}
+
+.text {
+    width: 25%;
+    height: 100%;
+    position: absolute;
+    right: 20%;
+    top: 20%;
+}
+h1, .buc {
+    text-align: center;
+}
+
